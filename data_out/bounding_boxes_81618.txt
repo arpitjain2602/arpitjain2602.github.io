@@ -1,0 +1,8 @@
+C:\Users\AJain7\Desktop\arpit's_model\data_out\prashantsethia\prashantsethia_0.png 199 275 822 1040
+C:\Users\AJain7\Desktop\arpit's_model\data_out\varunrajshanmugavelayudham\varunrajshanmugavelayudham_0.png 283 168 510 469
+C:\Users\AJain7\Desktop\arpit's_model\data_out\prachimane\prachimane_0.png 309 249 816 888
+C:\Users\AJain7\Desktop\arpit's_model\data_out\prateekmohan\prateekmohan_0.png 215 221 614 735
+C:\Users\AJain7\Desktop\arpit's_model\data_out\smitanegi\smitanegi_0.png 799 187 1100 575
+C:\Users\AJain7\Desktop\arpit's_model\data_out\arpitjain\arpitjain_0.png 87 65 257 285
+C:\Users\AJain7\Desktop\arpit's_model\data_out\rajivsoni\rajivsoni_0.png 259 29 384 178
+C:\Users\AJain7\Desktop\arpit's_model\data_out\ravindrasingh\ravindrasingh_0.png 349 147 713 614
